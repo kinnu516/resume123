@@ -1,0 +1,40 @@
+{
+	"details":{
+		"name":"KINNERA",
+		"image":"download1.png",
+		"phone":"9959496979",
+		"email":"kinnerachalamalasetty@gmail.com"
+	},
+	"education":[
+		{
+		"college":"DVR & Dr.HS MIC College",
+		"percentage":"75%"
+	},
+	{
+		"college":"Sri Chaitanya jr College",
+		"percentage":"87%"
+	},
+	{
+		"college":"NOBLE KIDS E.M.H.S",
+		"percentage":"92%"
+	}
+],
+	"skills":[
+		{
+		"title":"Programming Languages",
+	    "output":[
+	    	"C","C++","Java","Python"
+	    ]		
+	
+   },
+   {
+   	"title":"Operating Systems",
+   	"output":[
+   		"Windows","Linux","MAC"
+   	]
+   }
+],
+    "career":{
+      "co":" To associate with organization and utilize my technical skills .i am here to develope my knowledge which is very useful for our organisation"
+}
+}
